@@ -1,0 +1,8 @@
+{
+  "name": "keygery-site",
+  "version": "1.0.0",
+  "description": "KeyGery Gaming Services",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
